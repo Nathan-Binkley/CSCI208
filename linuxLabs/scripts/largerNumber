@@ -1,0 +1,29 @@
+#!/bin/bash
+# CSCI208
+# Lab: Simple Shell Script
+
+echo "Enter First Number"
+read first
+echo "Enter Second Number"
+read second
+echo "Enter Third Number"
+read third
+
+if [ first -gt second ]
+then
+  if [ first -gt third ]
+  then
+    echo "First is the largest"
+fi
+if [ second -gt first ]
+then
+  if [ second -gt third ]
+  then
+    echo "Second is the largest"
+fi
+if [ third -gt second ]
+then
+  if [ third -gt first ]
+  then
+    echo "Third is the largest"
+fi

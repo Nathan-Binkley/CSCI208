@@ -1,0 +1,28 @@
+Script started on Mon 26 Mar 2018 12:47:16 PM EDT
+]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ gnome-sudokuodukuls[Kvi espdiff[4Pfk youespdiff[Ksolgnome-sodukuels[Kcd gamesls[Kcd usr[4Plscd ../../../..[8Pscript[4Plscd Inheritancels[Kcd csci208/InClassLabs[Ka.outg++ vfunctions.cppame[Kmakegamemakegamemakegamemakegdb game[4Pamemakegame[K\[K[K[K[Kcat test.txt|colrm18 > teszt.[K[K[K[Kt[Kst.txt | cat test.txt | colrm  9 13 > test3.txt | paste test2.txt test3.t[Ktxt
+bash: colrm18: command not found
+aaaa	
+bbbb	
+cccc	
+dddd	
+eeee	
+]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ cat test.txt|colrm18 > test.txt | cat test.txt | colrm 99 13 > test3.txt | paste test2.txt test3.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 18 > test.txt | cat test.txt | colrm [1@9[A]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 8 > test.txt | cat test.txt | colrm[1@ [A]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+aaaa	
+bbbb	
+cccc	
+dddd	
+eeee	
+]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ cat test.txt|colrm 1 8 > test.txt | cat test.txt | colrmm 9 13 > test3.txt | paste test2.txt test3.txt[A]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C18 > test.txt | cat test.txt | colrm 9[C[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 1 8 > test.txt | cat test.txt | colrm[C[2@9 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C |colrm 1 8 > test.txt | cat test.txt | colr[1@m[A]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C colrm 1 8 > test.txt | cat test.txt | col[1@r[A]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2.txt | cat test.txt | co[1@l[A]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ cp lab11.txd[Kt test.txt
+]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ cp lab11.txt test.txtat test.txt | colrm 1 8 > test2.txt | cat test.txt | coolrm 9 13 > test3.txt | paste test2.txt test3.txt
+]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ cat test.txt
+1111	aaaa
+2222	bbbb
+3333	cccc
+4444	dddd
+5555	eeee
+]0;binkleyn2@virtualbox: ~/csci208/linuxLabs/cut[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/linuxLabs/cut[00m$ exit
+
+Script done on Mon 26 Mar 2018 12:49:07 PM EDT

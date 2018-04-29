@@ -1,0 +1,22 @@
+In file included from /home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/main.cpp:3:0:
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/card.h:30:66: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11
+   string suitString[4] = {"Clubs", "Diamonds", "Hearts", "Spades"};
+                                                                  ^
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/card.h:31:127: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11
+   string myRankS[13] = {"Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King"};
+                                                                                                                               ^
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/card.h:30:66: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+   string suitString[4] = {"Clubs", "Diamonds", "Hearts", "Spades"};
+                                                                  ^
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/card.h:31:127: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+   string myRankS[13] = {"Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King"};
+                                                                                                                               ^
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/main.cpp: In function ‘int main()’:
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/main.cpp:10:20: error: no matching function for call to ‘LinkedList<Card>::pushFront()’
+   mylist.pushFront();
+                    ^
+In file included from /home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/main.cpp:1:0:
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/list.h:48:6: note: candidate: void LinkedList<t>::pushFront(t) [with t = Card]
+ void LinkedList<t>::pushFront(t num)
+      ^
+/home/acc.binkleyn2/csci208/InClassLabs/Linked Lists/list.h:48:6: note:   candidate expects 1 argument, 0 provided

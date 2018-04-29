@@ -1,0 +1,34 @@
+Script started on Mon 26 Mar 2018 12:08:59 PM EDT
+]0;binkleyn2@virtualbox: ~/csci208/InClassLabs/Inheritance[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/InClassLabs/Inheritance[00m$ g++ vfunctions.cpp
+]0;binkleyn2@virtualbox: ~/csci208/InClassLabs/Inheritance[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/InClassLabs/Inheritance[00m$ a.out
+
+
+Distance in kilometers is: 100
+Distance in miles is: 60
+
+
+Distance in miles is: 60
+Distance in kilometers is: 100
+
+
+Distance in yards is: 4
+Distance in meters is: 3.69231
+
+
+Distance in meters is: 4
+Distance in yards is: 4.33333
+
+
+Distance in miles is: 60
+Distance in kilometers is: 100
+
+
+Distance in yards is: 4
+Distance in meters is: 3.69231
+
+
+Distance in meters is: 4
+Distance in yards is: 4.33333
+]0;binkleyn2@virtualbox: ~/csci208/InClassLabs/Inheritance[01;32mbinkleyn2@virtualbox[00m:[01;34m~/csci208/InClassLabs/Inheritance[00m$ quit[K[K[K[Kexit
+
+Script done on Mon 26 Mar 2018 12:09:11 PM EDT

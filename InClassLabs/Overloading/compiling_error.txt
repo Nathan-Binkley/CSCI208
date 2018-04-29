@@ -1,0 +1,7 @@
+In file included from /home/acc.binkleyn2/csci208/InClassLabs/Overloading/date.cpp:2:0:
+/home/acc.binkleyn2/csci208/InClassLabs/Overloading/date.h:35:50: error: ‘std::ostream& Date::operator<<(std::ostream&, const Date&)’ must take exactly one argument
+   ostream& operator<<(ostream& os, const Date& dt);
+                                                  ^
+/home/acc.binkleyn2/csci208/InClassLabs/Overloading/date.h:36:3: error: expected unqualified-id before ‘{’ token
+   {
+   ^

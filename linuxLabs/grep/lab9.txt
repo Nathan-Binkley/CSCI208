@@ -1,0 +1,139 @@
+Balton, Stephen Kyle              BA      ECON   BADM        
+Besecker, Meredith Jacqueline     BA      ECON   PSYC        
+Buckmaster, Amy Dawn              BA      ECON   BADM        
+Craig, Michael Philip             BA      ECON               
+Eccles, Nathan Robert             BA      ECON   PRBU        
+Pereira, Paula De Aquino          BA      ECON   ENST        
+Abdi, Said Mohamed                BS      BADM          INBU 
+Adkins, Brittany Lane             BS      BADM          MKTG 
+Alexander, Amy Elizabeth          BS      BADM          ACCT 
+Alksnis, Cameron Russell          BS      BADM          FNAC 
+Anderson, Ian                     BS      BADM          CIFS 
+                                                        ACCT 
+Anderson, Michael Robert          BS      BADM          ECON 
+Anowski, Mark Richard, II         BS      BADM          MKTG 
+Ayers, Brittany Nicole            BS      BADM          ACCT 
+Bates, Claudnell Jason Arthur     BS      BADM          MGMT 
+Bayne, Toni Nikcole               BS      BADM          MKTG 
+Beeks, Cassandra Renee            BS      BADM          ECON 
+Bickell, Esther Louise            BS      BADM          ECON 
+Blackmon, Lisa Beth               BS      BADM          MKTG 
+Blem, April Lynn                  BS      BADM          MGMT 
+Bright, Rebecca K W               BS      BADM          GBUS 
+Brown, Latara Monique             BS      BADM          GBUS 
+Brown, Lyeshea Semondre Shayron   BS      BADM          ACCT 
+Buechert, Andreas                 BS      BADM          INBU 
+Busch, Emily Sue                  BS      BADM          MGMT 
+Calkins, Lauren Phyllis           BS      BADM          ENTR 
+Call, Valerie Michelle            BS      BADM          MKTG 
+Calloway, Logan Mackenzie         BS      BADM          ACCT 
+Campbell, Tiffany Nicole          BS      BADM          MKTG 
+Carpenter, Timothy                BS      BADM          FNAC 
+                                                        PFIN 
+Casajuana, Miquel                 BS      BADM   GEOG   INBU 
+Cauthen, Jenna Leigh              BS      BADM          MKTG 
+Childers, Jamie Leigh             BS      BADM          ACCT 
+Coaxum, Joi-Latrice               BS      BADM          MKTG 
+Corbett, Garner Glenn             BS      BADM          MGMT 
+Damon, Devan Michelle             BS      BADM          HCMT 
+Dillard, Latoya Davis             BS      BADM          GBUS 
+Donahue, Michelle Viviana         BS      BADM   ECON   INBU 
+Dunlap, Glen Robert               BS      BADM   HIST   INBU 
+Durrenberger, Scott Michael       BS      BADM          MGMT 
+Eadie, Angel Dai'Chelle           BS      BADM          FNAC 
+Eaton, Ryan Seth                  BS      BADM          FNAC 
+Edrington, Candice LaShara        BS      BADM          MKTG 
+Etheredge, Alexander Blake        BS      BADM          HRMG 
+Flick, Heather Wrenee             BS      BADM          ACCT 
+Ford, Tony Allen                  BS      BADM          MGMT 
+Foster, Rodney Tyrone             BS      BADM          ACCT 
+Frain, Danielle Bernadette        BS      BADM   GERM   INBU 
+Funderburke, Ross Ian             BS      BADM          MKTG 
+Gallman, Antonio James            BS      BADM          ACCT 
+Gethers, Denise Monet             BS      BADM          MKTG 
+Gilmore, Tonya Lachelle           BS      BADM          MGMT 
+Goldsmith, Lenesha Jamell         BS      BADM          ENTR 
+Gray, Melissa Peden               BS      BADM          MKTG 
+Gregg, Tonya Lakish               BS      BADM          HCMT 
+Hall, Jonathan Wesley             BS      BADM          PFIN 
+Harmon, Charity Renee             BS      BADM          MKTG 
+Harrison, Sharise Laquan          BS      BADM          FNAC 
+Head, Rebecca Lynne               BS      BADM          MKTG 
+Hill, Anna Marie                  BS      BADM          INBU 
+Honeycutt, Jacqueline Marie       BS      BADM          HCMT 
+Hubbard, Tanya Marie              BS      BADM          MGMT 
+Hunter, Bryan Joseph              BS      BADM          MGMT 
+Isreal, Ashley Laverne            BS      BADM          MGMT 
+Jackson, Christopher Marquis      BS      BADM          ENTR 
+Jackson, Miesha Dekezia           BS      BADM          ACCT 
+Johnston, Shannon Mercedes        BS      BADM          INBU 
+Jones, Sherise LaZalia            BS      BADM          FNAC 
+Killebrew, Douglas Dennis, Jr     BS      BADM          ACCT 
+                                                        FNAC 
+Lancaster, Kyle James             BS      BADM          HCMT 
+Leung, Magnus                     BS      BADM          FNAC 
+Lucas, Jessica Jalise             BS      BADM          HCMT 
+Mabe, Melissa Diane               BS      BADM          MKTG 
+Mack, Jerell Levi                 BS      BADM          GBUS 
+Manders, Michael Kelly, Jr        BS      BADM          MGMT 
+Mansfield, Caitlin Elizabeth      BS      BADM   HIST   HRMG 
+Mapp, Stacey Marie                BS      BADM   ENTR   INBU 
+Marsh, Victoria Abigail           BS      BADM          FNAC 
+Martin, Megan Paige               BS      BADM          MKTG 
+Massey, Barbara LaTasha           BS      BADM          ACCT 
+Matthews, Randall Travis          BS      BADM   GEOG   MGMT 
+May, Prescott Diaz, IV            BS      BADM          MKTG 
+McArthur, Pressley Rankin         BS      BADM          MKTG 
+Mikan, Monica Ann                 BS      BADM          MGMT 
+Miller, Chiquita Lashawn          BS      BADM          FNAC 
+Mitchell, Whitney Jackson-Hunter  BS      BADM          MGMT 
+Nelson, Laura Anne                BS      BADM          ECON 
+                                                        FNAC 
+Nguyen, Jacqueline Amanda         BS      BADM          FNAC 
+Nguyen, Julie Yen                 BS      BADM          ACCT 
+Norris, Kayla Marie               BS      BADM          FNAC 
+Oglesby, Katlyn Mary              BS      BADM          INBU 
+Ogunkoya, Enitan Oluwatobiloba    BS      BADM          MKTG 
+Parrish, Justin Thomas            BS      BADM          MGMT 
+Partlow, Tamario Andrecus         BS      BADM          MGMT 
+Patel, Hardik Rajendrakumar       BS      BADM          ACCT 
+Patruno, Mariangela               BS      BADM          GBUS 
+Patterson, Natalie Michelle       BS      BADM          ACCT 
+Paul, Patrick Shelburne           BS      BADM          MGMT 
+Pender, Joshua Armitage           BS      BADM          GBUS 
+Raley-Ramos, Chelsea              BS      BADM          ACCT 
+Ransom, Michelle Renee            BS      BADM          HRMG 
+Reinman, Soo Kyung                BS      BADM   MATH   FNAC 
+Roberts, Milton Madison, Jr       BS      BADM          GBUS 
+Robinson, Mantoris Bernard        BS      BADM   ENTR   HRMG 
+Robinson, Megan Elizabeth         BS      BADM          ACCT 
+Sealy, Brandi Marie               BS      BADM          ACCT 
+Shippy, Jessica Kandra            BS      BADM          ACCT 
+Smith, Arsenio Jamell             BS      BADM          FNAC 
+Smith, Morgan Siera               BS      BADM          FNAC 
+Smith, Rachel Ann                 BS      BADM          MKTG 
+Sorbello, Jeff Justin             BS      BADM          MKTG 
+Stenhouse, Sydney Lauren          BS      BADM          HRMG 
+Stines, Helen Patricia            BS      BADM          ACCT 
+Strople, Christine LeeAnn         BS      BADM   SPAN   ACCT 
+                                                 PSYC        
+Summers, Natasha Monique          BS      BADM          ECON 
+Sweeney, Erin Elizabeth           BS      BADM          HCMT 
+Tidwell, Rachael Shyvonne         BS      BADM          ACCT 
+Tolley, James Henry, III          BS      BADM          HCMT 
+Turney, Patrick Flynn             BS      BADM          MGMT 
+Vallotton, William Mark           BS      BADM          FNAC 
+Weaver, Matthew                   BS      BADM          MGMT 
+White, Matthew Lorin              BS      BADM          HRMG 
+Wigfall, Allen Latrell            BS      BADM          PFIN 
+Williams, Kevin James, Jr         BS      BADM          GBUS 
+Willis, Janelle Ivana             BS      BADM          HCMT 
+Wilson, Duane Collin              BS      BADM   ECON   FNAC 
+Woodward, Tory Joseph             BS      BADM          MGMT 
+Wright, Kamilah Aliyah            BS      BADM          MKTG 
+Young, Carmenetta Renay           BS      BADM          GBUS 
+Young, Sarah Cynquintia           BS      BADM          INBU 
+Young, William Darby              BS      BADM               
+Zhou, Difei                       BS      BADM          ACCT 
+Dickson, Anthony James            BS      CSCI   MATH        
+Downs, Christopher Paul           BS      CSCI   BADM        
